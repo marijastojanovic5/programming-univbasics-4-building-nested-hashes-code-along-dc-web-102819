@@ -4,7 +4,7 @@ def fourth_challenge
       :patriarch => {name: "Lord Montague", age: "53"},
       :matriarch => {name: "Lady Montague", age: "54"},
       :hero => {name: "Romeo", age: "15", status: "alive"},
-      :hero_friends => [ {:name => "Benvolio", :age => "17", :attitude =>"worried"},https://learn.co/tracks/fswd-prework-2-0/cli-essentials/programming-as-conversation-part-4-collection-data-types-array-and-hash/building-nested-hashes-code-along#
+      :hero_friends => [ {:name => "Benvolio", :age => "17", :attitude =>"worried"}
          {:name =>"Mercutio", :age => "18", :attitude => "hot-headed"}
         #your hashes here!
       ]
